@@ -12,6 +12,7 @@
     <title>Новостная лента</title>
     <base href="${pageContext.request.contextPath}/"/>
     <link rel="stylesheet" href="webjars/bootstrap/3.3.7-1/css/bootstrap.min.css">
+    <link rel="shortcut icon" href="">
     <%--<link rel="stylesheet" href="resources/css/custom.min.css">--%>
 
     <%--<link rel="stylesheet" href="resources/css/font-awesome.min.css">
